@@ -2,8 +2,6 @@
 
 This project aims to predict world happiness based on various socio-economic factors. It utilizes machine learning techniques to analyze and model the relationship between different variables and the happiness scores reported by countries around the world.
 
-Its idea 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
