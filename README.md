@@ -45,14 +45,19 @@ Contributions are welcome! If you have suggestions for improvements or would lik
 The dataset used in this project is the World Happiness Report, which contains happiness scores and various indicators for 156 countries. The data is collected annually and provides a comprehensive view of the factors that contribute to happiness. The report can be found [here](https://worldhappiness.report).
 We used this [dataset from kaggle](https://www.kaggle.com/datasets/mathurinache/world-happiness-report).
 
-Additional data we used:
+Additional data similiar to the original factors in the WHI:
+- GDP per capita (current US$) from https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+- Life expectancy at birth from https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-birth-(years)
+- World giving index (% of people donating to charity) from https://www.cafonline.org/about-us/publications/2022-publications/caf-world-giving-index-2022
+- Human rights data from https://ourworldindata.org/grapher/distribution-human-rights-vdem
+- Corruption perception index from https://www.transparency.org/en/cpi/
 
+Additional data not included in the WHI:
 - Rural population % of total population from https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS
 - Power consumption per capita from https://ourworldindata.org/grapher/per-capita-energy-use
 - Inflation of consumer prices from https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG
 - Military expenditure % of GDP from https://data.worldbank.org/indicator/MS.MIL.XPND.GD.ZS
 - Population growth % from https://data.worldbank.org/indicator/SP.POP.GROW
-- Human rights data from https://ourworldindata.org/grapher/distribution-human-rights-vdem
 - CO2 emissions per capita from https://edgar.jrc.ec.europa.eu/report_2022
 
 ## License
