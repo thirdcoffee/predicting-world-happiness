@@ -1,6 +1,6 @@
 # Predicting World Happiness
 
-This project aims to predict world happiness based on various socio-economic factors. It utilizes machine learning techniques to analyze and model the relationship between different variables and the happiness scores reported by countries around the world. It's focus lies on a subset of countries and data in the range of 2015 to 2021.
+This project aims to predict world happiness based on various socio-economic factors. It utilizes machine learning techniques to analyze and model the relationship between different variables and the happiness scores reported by countries around the world. Its focus lies on a subset of countries and data in the range of 2015 to 2021.
 
 ## Installation
 
@@ -26,19 +26,10 @@ pip install -r requirements.txt
 
 4. Run the Jupyter notebook
 
-## Contributing
+## Make it your own
 
-Contributions are welcome! If you have suggestions for improvements or would like to add new features, please follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and commit them.
-
-4. Push your changes to your fork.
-
-5. Submit a pull request detailing your changes.
+As this is an university assignment, this project is not maintained.
+If you would like to create your own project based on this one, feel free to fork the repository and use it as a starting point.
 
 ## Datasets and Sources
 
